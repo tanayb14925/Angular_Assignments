@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "M8$tek12",
+    "database": "meandb",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
